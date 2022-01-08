@@ -1,4 +1,4 @@
-# Collection-eShop-Templates
+# Collection-Online Shops-Templates
  
 > A collection of online shop template forms built by Mounia Janah all the way from designing the UI to coding. 
 
