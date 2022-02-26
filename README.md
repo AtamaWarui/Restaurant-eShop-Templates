@@ -1,6 +1,6 @@
 # Collection-Online Shops-Templates
  
-> A collection of Restaurant websites and online shop templates forms built by Mounia Janah all the way from designing the UI to coding. 
+> A collection of Restaurant websites and online shop templates built by Mounia Janah all the way from designing the UI to coding. 
 
 ## Templates
 
